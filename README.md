@@ -36,13 +36,13 @@ This project was built to:
 
 Examples of supported input:
 
-bash
-ls -l
-wc file.txt
-grep error log.txt
-ls | grep txt
-ls | grep txt > output.txt
-df
+bash, 
+ls -l, 
+wc file.txt, 
+grep error log.txt, 
+ls | grep txt, 
+ls | grep txt > output.txt, 
+df, 
 cmatrix
 
 <h2>How It Works</h2>
